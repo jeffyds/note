@@ -1,0 +1,2 @@
+目录扫描：
+ffuf -u http://site.com/FUZZ -w ./wordlist.txt -recursion -recursion-depth 1
