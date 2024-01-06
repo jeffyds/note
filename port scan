@@ -1,0 +1,1 @@
+nmap -iL hosts.txt -p- -Pn -sV -v -oN outputfile.txt
